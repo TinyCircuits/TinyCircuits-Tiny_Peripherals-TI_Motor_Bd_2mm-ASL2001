@@ -5,7 +5,7 @@ These are the design files for the TinyCircuits ASL2001 Rev 1 PCB.  This is a Ti
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  http://tiny-circuits.com/shop/tinylily-motor-board/
+For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-lily-motor-board.html
 
 
 
